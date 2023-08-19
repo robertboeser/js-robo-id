@@ -1,0 +1,27 @@
+{
+  "name": "@robertboeser/robo-id",
+  "version": "0.1.0",
+  "description": "",
+  "main": "lib/index.js",
+  "types": "lib/index.d.ts",
+  "files": [
+    "lib"
+  ],
+  "scripts": {
+    "prepublish": "tsc",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/robertboeser/js-robo-id.git"
+  },
+  "author": "Robert Böser",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/robertboeser/js-robo-id/issues"
+  },
+  "homepage": "https://github.com/robertboeser/js-robo-id#readme",
+  "devDependencies": {
+    "typescript": "^5.1.6"
+  }
+}
